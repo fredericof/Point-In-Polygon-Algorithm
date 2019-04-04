@@ -1,0 +1,12 @@
+{
+  "name": "pointinpolygno",
+  "version": "1.0.0",
+  "description": "Determining whether a point is inside a Polygon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frederico Bitencourt",
+  "license": "ISC",
+  "dependencies": {}
+}
